@@ -15,7 +15,7 @@ public class Main {
 // https://jobi.cy/veq2t Industry Slug drop down
 // Add DetailsPanel stuff
 
-
+// test 21123
 // Panel class (HomePanel)
 // Data provider class (HomeDataProvider)
 // Coordinator class (HomeCoordinator)
